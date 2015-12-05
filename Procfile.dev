@@ -8,4 +8,3 @@ mmr: nodemon mmr.js
 fullhistory: nodemon fullhistory.js
 workServer: nodemon workServer.js
 workParser: nodemon workParser.js
-.
